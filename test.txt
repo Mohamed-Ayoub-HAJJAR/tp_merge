@@ -1,3 +1,2 @@
-Bonjour master le commit F
-Bonjour br1
-bonjour br1 ligne2
+
+Bonjour resolution du conflit
